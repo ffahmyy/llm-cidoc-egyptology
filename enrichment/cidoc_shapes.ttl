@@ -1,0 +1,23 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+# Shape for Louvre Objects
+<#LouvreObjectShape> a sh:NodeShape ;
+    sh:targetClass crm:E22_Human-Made_Object ;
+    
+    # Rule 1: Must have a Title (P102) instead of a simple label
+    sh:property [
+        sh:path crm:P102_has_title ;
+        sh:minCount 1 ;
+        sh:message "VALIDATION FAILED: This E22 object is missing a Title (P102_has_title)!" ;
+    ] .
+
+# Shape for your injected URIs
+<#ReconciliationShape> a sh:NodeShape ;
+    sh:targetObjectsOf owl:sameAs ;
+    
+    # Rule 2: sameAs links MUST be URIs, not plain text
+    sh:nodeKind sh:IRI ;
+    sh:message "VALIDATION FAILED: Your owl:sameAs link is just text, it must be a valid URI!" .

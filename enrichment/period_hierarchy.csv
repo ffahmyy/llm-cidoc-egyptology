@@ -1,0 +1,20 @@
+﻿label,uri,level,parent_label,parent_uri,english_label,in_data
+Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,dynasty,Époque thinite,http://thot.philo.ulg.ac.be/concept/thot-142,First Dynasty,yes
+Époque thinite,http://thot.philo.ulg.ac.be/concept/thot-142,era,Période Pharaonique,http://thot.philo.ulg.ac.be/concept/thot-141,Early Dynastic Period,no
+Anedjib,http://www.wikidata.org/entity/Q111079,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,Adj-ib,yes
+Den,http://thot.philo.ulg.ac.be/concept/thot-149,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,Den,yes
+Djer,http://thot.philo.ulg.ac.be/concept/thot-147,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,Djer,yes
+Djet,http://www.wikidata.org/entity/Q151828,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,"""Serpent""",yes
+Qaa,http://thot.philo.ulg.ac.be/concept/thot-152,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,Qa-a,yes
+Âha,http://thot.philo.ulg.ac.be/concept/thot-145,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,Aha,yes
+1st Dynasty,http://thot.philo.ulg.ac.be/concept/thot-143,dynasty,Époque thinite,http://thot.philo.ulg.ac.be/concept/thot-142,,yes
+2nd Dynasty,http://thot.philo.ulg.ac.be/concept/thot-153,dynasty,Époque thinite,http://thot.philo.ulg.ac.be/concept/thot-142,,yes
+A-Group Culture,http://www.wikidata.org/entity/Q277797,unknown,Époque thinite,http://thot.philo.ulg.ac.be/concept/thot-142,,yes
+Early Dynastic,http://thot.philo.ulg.ac.be/concept/thot-142,era,Période Pharaonique,http://thot.philo.ulg.ac.be/concept/thot-141,,yes
+First Intermediate,http://thot.philo.ulg.ac.be/concept/thot-194,era,Période Pharaonique,http://thot.philo.ulg.ac.be/concept/thot-141,,yes
+Late Predynastic,https://archives.arce.org/period/late-predynastic,era,Période Pharaonique,http://thot.philo.ulg.ac.be/concept/thot-141,,yes
+Levantine,https://archives.arce.org/period/levantine,unknown,,,,yes
+Naqada II,http://thot.philo.ulg.ac.be/concept/thot-134,dynasty,Nagada,http://thot.philo.ulg.ac.be/concept/thot-128,,yes
+Naqada III,https://archives.arce.org/period/naqada-iii,dynasty,Nagada,http://thot.philo.ulg.ac.be/concept/thot-128,,yes
+Predynastic,http://thot.philo.ulg.ac.be/concept/thot-126,era,Prehistoric and predynastic periods,http://thot.philo.ulg.ac.be/concept/thot-115,,yes
+Semerkhet,http://thot.philo.ulg.ac.be/concept/thot-151,reign,Ière dynastie,http://thot.philo.ulg.ac.be/concept/thot-143,,yes
