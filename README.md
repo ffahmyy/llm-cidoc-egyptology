@@ -4,7 +4,7 @@ CIDOC-CRM knowledge graph integrating First Dynasty Egyptian collections from
 the Musée du Louvre and the British Museum, built through an LLM-assisted
 extract–transform–load pipeline.
 
-This repository accompanies the thesis "Collections as Data in Egyptology: Evaluating an LLM-Supported Metadata Aggregation Workflow" (UCL), [2026)
+This repository accompanies the thesis "Collections as Data in Egyptology: Evaluating an LLM-Supported Metadata Aggregation Workflow" (UCL), (2026)
 and contains the source data, the scripts produced at each stage of the
 workflow, and the SPARQL queries used to evaluate the resulting graph.
 
