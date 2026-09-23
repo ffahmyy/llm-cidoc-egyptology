@@ -1,0 +1,6 @@
+rdflib
+pyoxigraph
+pyshacl
+flask
+deep-translator
+lxml
